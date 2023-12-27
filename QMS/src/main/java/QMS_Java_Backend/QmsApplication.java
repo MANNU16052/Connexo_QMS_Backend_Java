@@ -8,6 +8,7 @@ public class QmsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QmsApplication.class, args);
+		System.out.println("Shivam patel");
 	}
 
 }
