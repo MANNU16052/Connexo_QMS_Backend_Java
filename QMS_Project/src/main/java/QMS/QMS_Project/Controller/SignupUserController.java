@@ -20,8 +20,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-//@CrossOrigin("http://localhost:8080")
-//@RequestMapping("/api/qms")
 public class SignupUserController{
     @Autowired
     private AuthService authService;
