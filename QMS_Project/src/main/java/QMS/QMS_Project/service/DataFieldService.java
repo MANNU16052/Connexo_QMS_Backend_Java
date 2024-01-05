@@ -4,12 +4,8 @@ import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import QMS.QMS_Project.Repository.DataFieldRepo;
 import QMS.QMS_Project.model.DataField;
-
-
-
 
 @Service
 public class DataFieldService {
